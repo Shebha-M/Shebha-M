@@ -21,16 +21,19 @@ Computer Science student interested in software development, problem solving, an
 
 ## 🚀 Projects
 
-- **Credencify** — Blockchain-based credential management system
-- **DSA Practice** — Data Structures & Algorithms practice using C++
-- **Product API** — Backend API with PostgreSQL, filtering and pagination
-- **Expense Management App** — Java-based application
-- **Retail POS** — Java-based point-of-sale application
-- **Weather Forecast System** — Java web application
+- **[Credencify](https://github.com/sidharth756/Credencify)** — Blockchain-based credential management system
+- **[DSA Practice](https://github.com/Shebha-M/DSA-Practice)** — Data Structures & Algorithms practice using C++
+- **[Product API](https://github.com/Shebha-M/codevector-product-api)** — Backend API with PostgreSQL, filtering and pagination
+- **[Expense Management App](https://github.com/Shebha-M/Expense-Management-APP)** — Java-based application
+- **[Retail POS](https://github.com/Shebha-M/RetailPOS)** — Java-based point-of-sale application
+- **[Weather Forecast System](https://github.com/Shebha-M/WeatherForecastSystem)** — Java web application using JSP, Servlets, JDBC and Oracle
 
 ## 🧠 Coding & Problem Solving
 
 I am actively improving my problem-solving skills through Data Structures & Algorithms practice and coding problems.
+
+- 💻 [LeetCode](https://leetcode.com/u/Shebha/)
+- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shebhvxvu)
 
 ## 🌱 Currently Learning
 
